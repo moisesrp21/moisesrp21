@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 - 👋 Hi, I’m @moisesrp21
 - 📚 Education: Bachelor's Degree in Computer Science with a Minor in Mathematics from Rutgers University - Newark
 - 🌱 I’m currently working on personal projects.
